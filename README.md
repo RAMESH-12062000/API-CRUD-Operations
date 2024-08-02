@@ -40,3 +40,5 @@ An SAP Fiori application.
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
 
+
+if You search as with "> (symble)" in Bas search field for getting the "Ports Preview and Soryboadrd"
