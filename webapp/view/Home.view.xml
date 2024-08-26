@@ -33,6 +33,11 @@
                             text="Add"
                             press="onAdd"
                         />
+                        <Button
+                            id="idbuttonCancle"
+                            text="Cancel"
+                            press="onCancelBtnPress"
+                        />
                     </OverflowToolbar>
                 </headerToolbar>
 
